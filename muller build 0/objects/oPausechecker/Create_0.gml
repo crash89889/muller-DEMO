@@ -1,0 +1,1 @@
+global.pause_check = 0;

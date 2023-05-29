@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/311b4ed2-e952-4b18-9bf4-5fe92eebaeeb/edit",
+  "option_operagx_game_name": "muller build 0",
+  "option_operagx_guid": "311b4ed2-e952-4b18-9bf4-5fe92eebaeeb",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_next_version": "1.0.0.1",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "edfaf8b0-24b8-4f45-b43d-bd4e7fc52e60",
+  "option_operagx_team_name": "(edfaf8b0-24b8-4f45-b43d-bd4e7fc52e60) studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "1.0.0.0",
+}
